@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "6d50466146931d79",
+    "type": "split",
+    "children": [
+      {
+        "id": "73ec1984690ccec7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "devel/devel.md.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc6e9273037674ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6c512ee5202cef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6217f4a6072f5d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2ecb33e3b8237a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262
+  },
+  "right": {
+    "id": "2536d5db29351e9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd51ba0957c6b59d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac21454e774d47ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "devel/devel.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "devel/Untitled.md"
+  ]
+}
