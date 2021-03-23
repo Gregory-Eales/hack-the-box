@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "devel/devel.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -86,6 +86,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "devel/devel.md",
+    "devel/img/Pasted image 20210322210815.png",
+    "devel/img/Pasted image 20210322193726.png",
     "devel/Untitled.md"
   ]
 }
